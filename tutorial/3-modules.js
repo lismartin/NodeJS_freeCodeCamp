@@ -6,7 +6,7 @@ const data = require('./6-alternative-exporting')
 
 require('./7-mind-grenade')
 
-// sayHi("susan")
-// sayHi(names.john)
-// sayHi(names.peter)
-// console.log(data);
+sayHi("susan")
+sayHi(names.john)
+sayHi(names.peter)
+console.log(data);
